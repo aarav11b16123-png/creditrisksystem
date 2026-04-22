@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# Data (Ignore raw data, but maybe keep the clean one if small)
+data/application_record.csv
+data/credit_record.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Streamlit config
+.streamlit/
