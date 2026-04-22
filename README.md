@@ -64,9 +64,10 @@ Streamlit: The framework used to build the interactive web dashboard.
 GitHub: Version control and project hosting.
 Streamlit Community Cloud: Used for hosting the live production app.
 
-<img width="1920" height="1080" alt="Screenshot (1371)" src="https://github.com/user-attachments/assets/590f113c-ed6b-4bd6-b0ca-c0efb6a37114" />
-<img width="1920" height="1080" alt="Screenshot (1370)" src="https://github.com/user-attachments/assets/fdb25083-ef25-4c70-85b2-ebde17f23dc6" />
-<img width="1920" height="1080" alt="Screenshot (1369)" src="https://github.com/user-attachments/assets/2074056e-fea6-4bda-8597-5e449ebfa5dd" />
+<img width="1920" height="934" alt="Screenshot (1371)" src="https://github.com/user-attachments/assets/bd7bb35d-d318-4191-bc2e-5e02a47e15ea" />
+<img width="1920" height="931" alt="Screenshot (1370)" src="https://github.com/user-attachments/assets/aaa5cdfe-6d69-44e8-b5ec-995e7cbd1396" />
+<img width="1920" height="928" alt="Screenshot (1369)" src="https://github.com/user-attachments/assets/89beb519-07ac-45b4-903a-c3d7b7659e2e" />
+
 
 
 
